@@ -1,0 +1,6 @@
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 15\Tarea 15\Tarea 15\bin\Debug\Tarea 15.exe.config
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 15\Tarea 15\Tarea 15\bin\Debug\Tarea 15.exe
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 15\Tarea 15\Tarea 15\bin\Debug\Tarea 15.pdb
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 15\Tarea 15\Tarea 15\obj\Debug\Tarea 15.csproj.CoreCompileInputs.cache
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 15\Tarea 15\Tarea 15\obj\Debug\Tarea 15.exe
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 15\Tarea 15\Tarea 15\obj\Debug\Tarea 15.pdb

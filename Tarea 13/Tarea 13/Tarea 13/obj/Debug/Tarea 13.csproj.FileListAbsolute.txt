@@ -1,0 +1,7 @@
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 13\Tarea 13\Tarea 13\bin\Debug\Tarea 13.exe.config
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 13\Tarea 13\Tarea 13\bin\Debug\Tarea 13.exe
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 13\Tarea 13\Tarea 13\bin\Debug\Tarea 13.pdb
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 13\Tarea 13\Tarea 13\obj\Debug\Tarea 13.csprojAssemblyReference.cache
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 13\Tarea 13\Tarea 13\obj\Debug\Tarea 13.csproj.CoreCompileInputs.cache
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 13\Tarea 13\Tarea 13\obj\Debug\Tarea 13.exe
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 13\Tarea 13\Tarea 13\obj\Debug\Tarea 13.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 8\Tarea 8\Tarea 8\bin\Debug\Tarea 8.exe.config
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 8\Tarea 8\Tarea 8\bin\Debug\Tarea 8.exe
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 8\Tarea 8\Tarea 8\bin\Debug\Tarea 8.pdb
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 8\Tarea 8\Tarea 8\obj\Debug\Tarea 8.csproj.CoreCompileInputs.cache
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 8\Tarea 8\Tarea 8\obj\Debug\Tarea 8.exe
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 8\Tarea 8\Tarea 8\obj\Debug\Tarea 8.pdb

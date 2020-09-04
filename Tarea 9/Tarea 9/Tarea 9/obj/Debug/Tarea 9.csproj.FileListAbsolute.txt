@@ -1,0 +1,7 @@
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 9\Tarea 9\Tarea 9\bin\Debug\Tarea 9.exe.config
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 9\Tarea 9\Tarea 9\bin\Debug\Tarea 9.exe
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 9\Tarea 9\Tarea 9\bin\Debug\Tarea 9.pdb
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 9\Tarea 9\Tarea 9\obj\Debug\Tarea 9.csprojAssemblyReference.cache
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 9\Tarea 9\Tarea 9\obj\Debug\Tarea 9.csproj.CoreCompileInputs.cache
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 9\Tarea 9\Tarea 9\obj\Debug\Tarea 9.exe
+C:\Users\Nacho-Fede\Documents\VB ED\Tarea 9\Tarea 9\Tarea 9\obj\Debug\Tarea 9.pdb
